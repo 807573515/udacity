@@ -1,0 +1,13 @@
+body{
+	text-align: center;
+	font-family: "arial black";
+}
+#success{
+	margin: 0 auto;
+	height: 60px;
+	width: 505px;
+	background: deepskyblue;
+}
+canvas{
+	margin-top: -50px;
+}
